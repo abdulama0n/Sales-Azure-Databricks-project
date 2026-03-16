@@ -1,0 +1,37 @@
+[
+    {
+      "folder_name": "Source-data",
+      "file_name": "customer_first.parquet",
+      "relative_url": "Source-data/customer_first.parquet"
+    },
+    {
+      "folder_name": "Source-data",
+      "file_name": "customers_second.parquet",
+      "relative_url": "Source-data/customers_second.parquet"
+    },
+    {
+      "folder_name": "Source-data",
+      "file_name": "orders_first.parquet",
+      "relative_url": "Source-data/orders_first.parquet"
+    },
+    {
+      "folder_name": "Source-data",
+      "file_name": "orders_second.parquet",
+      "relative_url": "Source-data/orders_second.parquet"
+    },
+    {
+      "folder_name": "Source-data",
+      "file_name": "products_first.parquet",
+      "relative_url": "Source-data/products_first.parquet"
+    },
+    {
+      "folder_name": "Source-data",
+      "file_name": "products_second.parquet",
+      "relative_url": "Source-data/products_second.parquet"
+    },
+    {
+      "folder_name": "Source-data",
+      "file_name": "regions.parquet",
+      "relative_url": "Source-data/regions.parquet"
+    }
+  ]
